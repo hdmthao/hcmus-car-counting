@@ -6,7 +6,7 @@ Car counting using tensorflow object detection api and tensorflow object countin
 ## Data
 Train data can find here: [Click here](https://drive.google.com/file/d/1QzYX-AqNBVPOQyW8jvCZkif-nxV6GBpB/view?usp=sharing)
 
-## Model
+## Work
 We tested on 3 pre-trained model:
 ### ssdlite_mobilenet_v2_coco
 
