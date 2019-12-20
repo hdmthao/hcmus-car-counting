@@ -8,10 +8,10 @@ Train data can find here: [Click here](https://drive.google.com/file/d/1QzYX-AqN
 
 ## Model
 We tested on 3 pre-trained model:
-### SSDLITE_MOBILENET_V2_COCO
+### ssdlite_mobilenet_v2_coco
 
-### SSD_INCEPTION_V2_COCO
+### faster_rcnn_resnet101_kitti
 
-### FASTER_RCNN_RESNET50_COCO
+### ssd_inception_coco
 
 
